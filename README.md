@@ -18,9 +18,9 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 [![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
 
 
-### Now Playing on Spotify 🎧
+### 🎧 Now Playing on Spotify 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yCyanx's Spotify Playlist!" width="350" />](https://open.spotify.com/user/2jri0nr16kvq74rdb00vhwxca)
 
 ### 🚀 Languages & Tools:
 
