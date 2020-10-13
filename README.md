@@ -6,7 +6,7 @@ I'm a 15 years old filipino developer, passionate about automation, software and
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love math and code games & play drums!
 
 <a href="https://github.com/yCyanx69?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
