@@ -33,7 +33,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 <code><img height="30" src="https://cv.quentium.fr/img/SQL.png" title="MySQL"></code>
 
 ### ⚒️ Tools:
-[<img height="30" src="https://p1.hiclipart.com/preview/945/258/372/numix-circle-for-windows-sublime-text-icon-png-icon.jpg" />](https://open.spotify.com/user/2jri0nr16kvq74rdb00vhwxca
+[<img height="30" src="https://p1.hiclipart.com/preview/945/258/372/numix-circle-for-windows-sublime-text-icon-png-icon.jpg" />](https://open.spotify.com/user/2jri0nr16kvq74rdb00vhwxca)
 <code><img height="30" src="https://cv.quentium.fr/img/visual_studio_code.png" title="Visual Studio Code"></code>
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" title="Github"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/github_desktop.png" title="GitHub desktop"></code>
