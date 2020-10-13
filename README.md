@@ -43,10 +43,15 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 
 ---
 
-### 👌 Recent Activity
+### 👌 Activity
+<details>
+  
+  
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+
+
+</details>
 
 ---
 
