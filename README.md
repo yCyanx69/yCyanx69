@@ -16,7 +16,7 @@ I'm a 15 years old filipino developer, passionate about automation, software and
 </a>
 
 <a href="https://ycyanx69.github.io/yCyanx">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx">
 </a>
 
 
