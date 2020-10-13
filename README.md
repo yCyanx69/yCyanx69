@@ -27,7 +27,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 <code><img height="30" src="https://cv.quentium.fr/img/SQL.png" title="MySQL"></code>
 
 <code><img height="30" src="https://cv.quentium.fr/img/visual_studio_code.png" title="Visual Studio Code"></code>
-<code><img height="30" src="https://cv.quentium.fr/img/git.png" title="Git"></code>
+<code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" title="Github"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/github_desktop.png" title="GitHub desktop"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/wamp.png" title="Wamp"></code>
 
