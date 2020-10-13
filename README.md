@@ -58,3 +58,11 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 <a href="mailto:yCyanx69@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail">
   <img align="left" alt="Mail" width="40px" src="https://quentium.fr/+img/footer/mail.png" />
 </a>
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
