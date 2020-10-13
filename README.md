@@ -9,10 +9,10 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 - ⚡ <strong> Fun fact: I love english, science and code games & play drums! </strong>
 
 <a href="https://github.com/yCyanx69?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="yCyanx's Github Stats">
 </a>
 <a href="https://ycyanx69.github.io/yCyanx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=algolia&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=algolia&layout=compact" alt="yCyanx's Latest Languages">
 </a>
 
 [![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
