@@ -10,7 +10,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 ---
 
 ### Additional Links!
-https://img.shields.io/twitter/follow/YcyanxL?label=Follow%20yCyanx%21&style=social
+[![Twitter Follow](https://img.shields.io/twitter/follow/YcyanxL?label=Follow%20yCyanx%21&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=YcyanxL)
 ---
 
 ### Statistics!
