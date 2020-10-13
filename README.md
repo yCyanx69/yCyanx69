@@ -7,7 +7,10 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 - 👯 <strong> I’m looking to collaborate with other coders </strong>
 - 🥅 <strong> 2020 Goals:  Contribute more to Open Source projects </strong>
 - ⚡ <strong> Fun fact: I love english, science and code games & play drums! </strong>
+---
 
+### Additional Links!
+https://img.shields.io/twitter/follow/YcyanxL?label=Follow%20yCyanx%21&style=social
 ---
 
 ### Statistics!
