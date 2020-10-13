@@ -1,6 +1,6 @@
 ### <h2> 👋 Hey, I'm [yCyanx](https://github.com.io/yCyanx)! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-I'm a 15 year old filipino developer, passionate about automation, software and web development.
+<strong> I'm a 15 year old filipino developer, passionate about automation, software and web development. </strong>
 ### Detailed Information!
 - 🔭 <strong> I just aced the first day of my exam at 10/9/2020! </strong>
 - 🌱 <strong> I’m currently learning everything 🤣 </strong>
