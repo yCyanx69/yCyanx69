@@ -36,9 +36,15 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 
 </details>
 
-<a href="https://ycyanx69.github.io/yCyanx">
+<details>
+  <summary>:zap: Most Used Languages!</summary>
+   <a href="https://ycyanx69.github.io/yCyanx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx" alt="yCyanx's WakaTime Statistics">
 </a>
+
+</details>
+
+
 
 ---
 
