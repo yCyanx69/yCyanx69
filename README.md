@@ -28,6 +28,14 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 
 </details>
 
+<details>
+  <summary>:zap: Most Used Languages!</summary>
+   <a href="https://ycyanx69.github.io/yCyanx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=algolia&layout=compact" alt="yCyanx's Latest Languages">
+</a>
+
+</details>
+
 ---
 
 ### 🎧 Now Playing on Spotify 🎧
