@@ -17,7 +17,10 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 
 [![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
 
+
+<br />
 ## 🚀 Languages and tools:
+
 
 <code><img height="30" src="https://cv.quentium.fr/img/python.png" title="Python 3.8"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML 5"></code>
