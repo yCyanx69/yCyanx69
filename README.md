@@ -92,7 +92,7 @@
 <a href="https://youtube.com/channel/UCldkv3RBqhciOtfWnuufkgg" title="YouTube">
   <img align="left" alt="YouTube" width="40px" src="https://quentium.fr/+img/footer/youtube.png" />
 </a>
-<a href="https://www.paypal.me/QuentiumYT/1" title="Discord User">
+<a href="https://discord.com/users/755646207195349054" title="Discord User">
   <img align="left" alt="Discord User" width="40px" src="https://quentium.fr/+img/footer/discord.png" />
 </a>
 <a href="mailto:yCyanx69@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail">
