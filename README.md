@@ -1,6 +1,12 @@
 ### 👋 Hey, I'm [yCyanx](https://github.com.io/yCyanx)!
 
 I'm a 15 years old filipino developer, passionate about automation, software and web development.
+## Detailed Information!
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
 <a href="https://github.com/yCyanx69?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
