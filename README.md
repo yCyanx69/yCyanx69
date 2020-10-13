@@ -42,7 +42,7 @@
 ### 👌 Activity
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary> <strong> :zap: Recent GitHub Activity </strong> </summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
