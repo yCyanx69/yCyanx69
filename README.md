@@ -1,4 +1,4 @@
-### 👋 Hey, I'm [yCyanx](https://github.com.io/yCyanx)!
+### <h2> 👋 Hey, I'm [yCyanx](https://github.com.io/yCyanx)! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 I'm a 15 year old filipino developer, passionate about automation, software and web development.
 ### Detailed Information!
