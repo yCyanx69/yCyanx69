@@ -19,6 +19,7 @@ I'm a 15 years old filipino developer, passionate about automation, software and
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx">
 </a>
 
+[![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
 
 ## 🚀 Languages and tools:
 
