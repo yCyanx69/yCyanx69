@@ -22,9 +22,9 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 
 <details>
   <summary>:zap: GitHub Statistics!</summary>
-   <a href="https://github.com/yCyanx69?tab=repositories"
-  <img align="left" alt="yCyanx's GitHub Stats!" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-  </a>
+   <a href="https://github.com/yCyanx69?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="yCyanx's Github Stats">
+</a>
 
 </details>
 
