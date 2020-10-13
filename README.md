@@ -12,7 +12,7 @@ I'm a 15 years old filipino developer, passionate about automation, software and
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=react&show_icons=true&include_all_commits=true" alt="yCyanx's GitHub Statistics">
 </a>
 <a href="https://ycyanx69.github.io/yCyanx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=react&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=algolia&layout=compact">
 </a>
 
 [![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
