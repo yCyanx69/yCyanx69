@@ -17,12 +17,16 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 
 [![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
 
+---
 
 ### 🎧 Now Playing on Spotify 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yCyanx's Spotify Playlist!" width="350" />](https://open.spotify.com/user/2jri0nr16kvq74rdb00vhwxca)
 
+---
+
 ### 🚀 Languages & Tools:
+
 
 ### 👌 Languages:
 <code><img height="30" src="https://cv.quentium.fr/img/python.png" title="Python 3.8"></code>
@@ -32,11 +36,15 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 <code><img height="30" src="https://cv.quentium.fr/img/PHP.png" title="PHP 7.4"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/SQL.png" title="MySQL"></code>
 
+---
+
 ### ⚒️ Tools:
 [<img height="35" src="https://p1.hiclipart.com/preview/945/258/372/numix-circle-for-windows-sublime-text-icon-png-icon.jpg" title="Sublime Text" />](https://open.spotify.com/user/2jri0nr16kvq74rdb00vhwxca)
 <code><img height="30" src="https://cv.quentium.fr/img/visual_studio_code.png" title="Visual Studio Code"></code>
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-1-logo-png-transparent.png" title="Github"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/github_desktop.png" title="GitHub desktop"></code>
+
+---
 
 ### 🔗 Social Links:
 
@@ -59,11 +67,5 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
   <img align="left" alt="Mail" width="40px" src="https://quentium.fr/+img/footer/mail.png" />
 </a>
 
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
