@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm [yCyanx](https://github.com.io/yCyanx)!
 
 I'm a 15 year old filipino developer, passionate about automation, software and web development.
-## Detailed Information!
+### Detailed Information!
 - 🔭 <strong> I just aced the first day of my exam at 10/9/2020! </strong>
 - 🌱 <strong> I’m currently learning everything 🤣 </strong>
 - 👯 <strong> I’m looking to collaborate with other coders </strong>
@@ -19,7 +19,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 
 
 <br />
-## 🚀 Languages and tools:
+### 🚀 Languages and tools:
 
 
 <code><img height="30" src="https://cv.quentium.fr/img/python.png" title="Python 3.8"></code>
@@ -34,7 +34,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 <code><img height="30" src="https://cv.quentium.fr/img/github_desktop.png" title="GitHub desktop"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/wamp.png" title="Wamp"></code>
 
-## 🔗 Social Links:
+### 🔗 Social Links:
 
 <a href="https://ycyanx69.github.io/yCyanx" title="Website">
   <img align="left" alt="Website" width="40px" src="https://quentium.fr/+img/footer/www.png" />
