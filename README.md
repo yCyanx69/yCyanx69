@@ -45,7 +45,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 
 </details>
 
