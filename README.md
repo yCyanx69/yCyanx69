@@ -2,10 +2,10 @@
 
 I'm a 15 years old filipino developer, passionate about automation, software and web development.
 ## Detailed Information!
-- 🔭 I just aced the first day of my exam at 10/9/2020!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other coders
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 <strong> I just aced the first day of my exam at 10/9/2020! </strong>
+- 🌱 <strong> I’m currently learning everything 🤣 </strong>
+- 👯 <strong> I’m looking to collaborate with other coders </strong>
+- 🥅 2020 Goals: <strong> Contribute more to Open Source projects </strong>
 - ⚡ Fun fact: <strong> I love english, science and code games & play drums! </strong>
 
 <a href="https://github.com/yCyanx69?tab=repositories">
