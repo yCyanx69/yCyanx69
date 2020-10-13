@@ -21,9 +21,10 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 [![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <summary>:zap: GitHub Statistics!</summary>
+   <a href="https://github.com/yCyanx69?tab=repositories"
+  <img align="left" alt="yCyanx's GitHub Stats!" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  </a>
 
 </details>
 
