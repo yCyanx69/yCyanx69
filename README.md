@@ -2,9 +2,9 @@
 
 I'm a 15 years old filipino developer, passionate about automation, software and web development.
 ## Detailed Information!
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just aced the first day of my exam at 10/9/2020!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other coders
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love math and code games & play drums!
 
