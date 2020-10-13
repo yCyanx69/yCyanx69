@@ -8,6 +8,9 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 - 🥅 <strong> 2020 Goals:  Contribute more to Open Source projects </strong>
 - ⚡ <strong> Fun fact: I love english, science and code games & play drums! </strong>
 
+---
+
+### Statistics!
 <a href="https://github.com/yCyanx69?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="yCyanx's Github Stats">
 </a>
@@ -16,6 +19,13 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 </a>
 
 [![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 
 ---
 
