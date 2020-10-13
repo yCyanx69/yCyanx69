@@ -11,17 +11,9 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 ---
 
 ### Statistics!
-<a href="https://github.com/yCyanx69?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="yCyanx's Github Stats">
-</a>
-<a href="https://ycyanx69.github.io/yCyanx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=algolia&layout=compact" alt="yCyanx's Latest Languages">
-</a>
-
-[![yCyanx's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx)](https://ycyanx69.github.io/yCyanx)
 
 <details>
-  <summary>:zap: GitHub Statistics!</summary>
+  <summary>:zap: yCyanx's GitHub Statistics!</summary>
    <a href="https://github.com/yCyanx69?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="yCyanx's Github Statistics">
 </a>
@@ -29,7 +21,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages!</summary>
+  <summary>:zap: Most used Languages!</summary>
    <a href="https://ycyanx69.github.io/yCyanx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=algolia&layout=compact" alt="yCyanx's Latest Languages">
 </a>
@@ -37,7 +29,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages!</summary>
+  <summary>:zap: yCyanx's Wakatime Statistics!</summary>
    <a href="https://ycyanx69.github.io/yCyanx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yCyanx" alt="yCyanx's WakaTime Statistics">
 </a>
