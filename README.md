@@ -44,11 +44,11 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 ---
 
 ### 👌 Activity
+
 <details>
-  
+  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
 
 
 </details>
