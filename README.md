@@ -9,12 +9,8 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
 - ⚡ <strong> Fun fact: I love english, science and code games & play drums! </strong>
 ---
 
-### Additional Links!
-[![Twitter Follow](https://img.shields.io/twitter/follow/YcyanxL?label=Follow%20yCyanx%21&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=YcyanxL)
-[![Discord Server](https://img.shields.io/discord/762138569342189568?color=blue&label=Discord%20Server&logo=Discord&logoColor=light%20blue)](https://discord.gg/zGzdH4XL)
 
 
----
 ### Statistics!
 
 <details>
