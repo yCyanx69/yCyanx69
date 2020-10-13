@@ -23,15 +23,15 @@ I'm a 15 years old filipino developer, passionate about automation, software and
 <code><img height="30" src="https://cv.quentium.fr/img/github_desktop.png" title="GitHub desktop"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/wamp.png" title="Wamp"></code>
 
-## 🔗 Social networks:
+## 🔗 Social Links:
 
-<a href="https://quentium.fr" title="Website">
+<a href="https://ycyanx69.github.io/yCyanx" title="Website">
   <img align="left" alt="Website" width="40px" src="https://quentium.fr/+img/footer/www.png" />
 </a>
-<a href="https://discord.gg/5sehgXx" title="Discord">
+<a href="https://discord.gg/5sehgXx" title="Discord Server">
   <img align="left" alt="Discord" width="40px" src="https://quentium.fr/+img/footer/discord.png" />
 </a>
-<a href="https://www.twitter.com/QuentiumYT" title="Twitter">
+<a href="https://www.twitter.com/YcyanxL" title="Twitter">
   <img align="left" alt="Twitter" width="40px" src="https://quentium.fr/+img/footer/twitter.png" />
 </a>
 <a href="https://www.youtube.com/QuentiumYT" title="YouTube">
