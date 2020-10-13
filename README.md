@@ -59,6 +59,7 @@ I'm a 15 year old filipino developer, passionate about automation, software and 
   <img align="left" alt="Mail" width="40px" src="https://quentium.fr/+img/footer/mail.png" />
 </a>
 
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
