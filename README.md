@@ -9,7 +9,7 @@ I'm a 15 years old filipino developer, passionate about automation, software and
 - ⚡ <strong> Fun fact: I love english, science and code games & play drums! </strong>
 
 <a href="https://github.com/yCyanx69?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="yCyanx's GitHub Statistics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
 </a>
 <a href="https://ycyanx69.github.io/yCyanx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=algolia&layout=compact">
@@ -36,7 +36,7 @@ I'm a 15 years old filipino developer, passionate about automation, software and
 <a href="https://ycyanx69.github.io/yCyanx" title="Website">
   <img align="left" alt="Website" width="40px" src="https://quentium.fr/+img/footer/www.png" />
 </a>
-<a href="https://discord.gg/5sehgXx" title="Discord Server">
+<a href="https://discord.gg/zGzdH4X" title="Discord Server">
   <img align="left" alt="Discord" width="40px" src="https://quentium.fr/+img/footer/discord.png" />
 </a>
 <a href="https://www.twitter.com/YcyanxL" title="Twitter">
