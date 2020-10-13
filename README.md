@@ -5,7 +5,7 @@ I'm a 15 years old filipino developer, passionate about automation, software and
 <a href="https://github.com/yCyanx69?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://ycyanx69.github.io/yCyanx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yCyanx69&theme=algolia&layout=compact">
 </a>
 
