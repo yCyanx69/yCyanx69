@@ -18,6 +18,17 @@
    <a href="https://github.com/yCyanx69?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yCyanx69&theme=algolia&show_icons=true&include_all_commits=true" alt="yCyanx's Github Statistics">
 </a>
+</details>
+
+<details>
+  <summary><strong>:zap: yCyanx's Top Repositories!</strong></summary>
+   <a href="https://github.com/yCyanx69/yCyanx69">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yCyanx69&repo=yCyanx69&theme=dracula" alt="Top Github Repo" width="400"/>
+     <a href="https://github.com/yCyanx69/SuperCyan">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yCyanx69&repo=SuperCyan&theme=dracula" alt="Top Github Repo" width="400"/>
+  </a>
+  
+</a>
 
 </details>
 
